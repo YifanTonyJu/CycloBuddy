@@ -1,0 +1,81 @@
+# Gradle files
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# Local configuration file (SDK location, etc.)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio files
+.idea/
+*.iml
+
+# IntelliJ IDEA files
+*.ipr
+*.iws
+*.idea/
+
+# MacOS files
+.DS_Store
+__MACOSX/
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Compiled code files
+*.class
+*.dex
+*.apk
+*.ap_
+*.jar
+*.war
+*.ear
+*.so
+*.obj
+*.o
+*.a
+*.swp
+
+# Generated files
+.cxx/
+.externalNativeBuild/
+captures/
+
+# ProGuard files
+proguard/
+proguard-rules.pro
+
+# Keystore files (used for signing APKs)
+*.jks
+*.keystore
+
+# Crashlytics and Firebase files
+fabric.properties
+crashlytics.properties
+
+# NDK (Native Development Kit) files
+obj/
+libs/
+
+# Others
+*.orig
+*.pyc
+*.pyo
+*.rbc
+*.exe
+*.dll
+*.cache
+*.pdb
+*.idb
+*.DS_Store
+*.class
+*.swp
+
+# JetBrains files
+.idea/
+.idea_modules/
+*.iml

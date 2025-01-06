@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466182544673",
+    "project_id": "my-first-app-cyclobuddy",
+    "storage_bucket": "my-first-app-cyclobuddy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466182544673:android:5e829b2f54e4841969f260",
+        "android_client_info": {
+          "package_name": "com.cyclobuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNCAi-N4JXK8m7PifTrQsoMCqVyZcGBbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -2,5 +2,21 @@
     <string name="app_name">CycloBuddy</string>
     <string name="welcome_message">Welcome, King of the Road!</string>
     <string name="login_message">LOGIN</string>
-    <string name="Sign_up_message">SIGN UP</string>
+    <string name="sign_up_message">SIGN UP</string>
+    <string name="input_user_name">Enter your username</string>
+    <string name="input_password">Enter your password</string>
+    <string name="user_name">Username: </string>
+    <string name="password">Password: </string>
+    <string name="email">Email address: </string>
+    <string name="confirm">CONFIRM </string>
+    <string name="forget_password">FORGET PASSWORD </string>
+    <string name="enter_your_account">ENTER YOUR ACCOUNT </string>
+    <string name="create_your_account">CREATE YOUR ACCOUNT </string>
+    <string name="create_the_account">CREATE ACCOUNT </string>
+    <string name="input_the_email">Email address </string>
+    <string name="input_new_username">Create your username </string>
+    <string name="input_new_password">Create your password </string>
+    <string name="input_auth_code">Auth code </string>
+    <string name="auth_code">Auth code: </string>
+    <string name="send_auth_code">SEND AUTH CODE </string>
 </resources>
